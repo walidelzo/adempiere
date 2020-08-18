@@ -54,12 +54,10 @@ public class ASPGenerateFields extends SvrProcess
 {
 	private String  p_ASP_Status;
 	private int p_ASP_Level_ID;	
-	
 	private int noFields = 0;
 	private int noProcesses = 0;
 	private int noParameters = 0;
 	private int noWorkflows = 0;
-
 	private int p_ASP_Tab_ID;
 	
 	/**
