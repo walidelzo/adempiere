@@ -28,9 +28,7 @@
 ***********************************************************************/
 
 package org.adempiere.process;
-
 import java.util.logging.Level;
-
 import org.compiere.model.MColumn;
 import org.compiere.model.MField;
 import org.compiere.model.MProcess;
